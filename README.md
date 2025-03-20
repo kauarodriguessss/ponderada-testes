@@ -50,8 +50,8 @@ Caso contrário, ele é **reprovado** .
    python teste_cadastro_profissional.py
    ```
 4. **Verifique os resultados no console**:
-   - Se o profissional foi cadastrado corretamente ✅.
-   - Se houve erro ❌.
+   - Se o profissional foi cadastrado corretamente.
+   - Se houve erro.
 
 ---
 
