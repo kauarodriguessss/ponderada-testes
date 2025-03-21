@@ -32,6 +32,22 @@ O teste foi criado no arquivo `AlunoController.test.ts`, utilizando a biblioteca
 
 ---
 
+## Resultado da Execução
+$ yarn test tests/AlunoController.test.ts
+
+ PASS  tests/AlunoController.test.ts
+  AlunoController
+    ✓ deve listar instituições corretamente (2 ms)
+    ✓ deve retornar erro ao buscar instituição por ID inválido (12 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       2 passed, 2 total
+Snapshots:   0 total
+Time:        0.814 s
+
+
+---
+
 ## Ambiente de Testes
 
 Foi criado um arquivo `.env.test` com a seguinte variável:
